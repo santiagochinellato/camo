@@ -3,7 +3,6 @@ import "./App.css";
 import data from "./prof.json";
 
 function App() {
-  console.log(data);
 
   // Desestructuración de los datos del JSON
   const {
