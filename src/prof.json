@@ -37,10 +37,6 @@
           "genero": "M"
         },
         {
-          "nombre": "Nofal, Teresa",
-          "genero": "F"
-        },
-        {
           "nombre": "Torres, Guido",
           "genero": "M"
         }
@@ -62,6 +58,8 @@
           "nombre": "Del Río, Valeria",
           "genero": "F"
         },
+        { "nombre": "Donoso, Marina",
+        "genero": "F"},
         {
           "nombre": "Mac Dermott, Maggie",
           "genero": "F"
@@ -107,7 +105,7 @@
       "name": "Neurología",
       "profesionales": [
         {
-          "nombre": "Lindenbuam, Sergio",
+          "nombre": "Lindenbaum, Sergio",
           "genero": "M"
         }
       ]
